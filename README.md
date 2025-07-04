@@ -1,4 +1,4 @@
-# endeavor_backend_2025
+# ApnaBazaar_backend_2025
 
 # Requirements:
 - Node Version: 22.17.0
